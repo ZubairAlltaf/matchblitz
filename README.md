@@ -90,4 +90,4 @@ This project is licensed under the MIT License open for all the changes and usag
 **Zubair Altaf**
 
 * GitHub: [@ZubairAlltaf](https://github.com/ZubairAlltaf)
-* LinkedIn: \[Your LinkedIn Profile URL Here\] *(Optional: Add your LinkedIn)*
+* LinkedIn: [@muhammad-zubair-215172376](https://www.linkedin.com/in/muhammad-zubair-215172376/)
